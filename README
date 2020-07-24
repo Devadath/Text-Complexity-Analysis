@@ -1,0 +1,19 @@
+
+All the codes are written in python 3.
+System tested in Ubuntu 16.04 LTS
+
+INSTALL
+=====
+	$ pip3 -r install requirements.txt
+=====
+RUN
+=====
+	$ python3 TextComplexityClassifier.py --language <LANGUAGE>
+
+=====
+Supported languages
+=====
+
+    english, hindi, telugu
+
+==================================
